@@ -250,7 +250,7 @@ marquee span {
   height: 55px;
   background-color: rgba(9, 9, 9, 0.4);
   box-shadow: 0 25px 45px rgba(0, 0, 0, .2);
-  border-radius: 50px;
+  border-radius: 50px; /* Boşluk Satırı*/
   backdrop-filter: blur(10px);
 }
 
