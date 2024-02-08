@@ -217,15 +217,6 @@ nav {
   overflow: hidden;
 }
 
-.trusted-side,
-.trusted-side *,
-.trusted-side :after,
-.trusted-side :before,
-.trusted-side:after,
-.trusted-side:before {
-  border: 0 solid;
-  box-sizing: border-box;
-}
 
 .trusted-side span {
   color: var(--hot-purple);
